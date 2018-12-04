@@ -1,1 +1,1 @@
-https://andrew2033.github.io/tictac/src
+https://andrew2033.github.io/tictac/dist
